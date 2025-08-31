@@ -1,0 +1,7 @@
+# Ignore MPLAB build outputs
+build/
+dist/
+*.X
+*.o
+*.hex
+*.elf
